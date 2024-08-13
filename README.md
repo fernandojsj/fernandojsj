@@ -2,9 +2,6 @@
 
 ### Olá! Eu sou o Fernando Junior ✋🏻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fernando-junior05)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandojsj&show_icons=true&theme=transparent)
 
